@@ -1,0 +1,35 @@
+Use StudentManager;
+GO
+
+INSERT INTO Department 
+VALUES
+('Aerospace/aeronautical Engineering'),
+('Bio Medicine'),
+('Biomedical Engineering'),
+('Cardiolody'),
+('Chemical Engineering'),
+('Civil Engineering'),
+('Dentistry'),
+('Electric Engineering'),
+('Electronics Engineering'),
+('ENT'),
+('Environmental Engineering'),
+('Genetics'),
+('Hardware Engineering'),
+('Industrial Engineering'),
+('Marine Engineering'),
+('Materials Engineering'),
+('Mechanical Engineering'),
+('Mechatronics Engineering'),
+('Nano Engineering'),
+('Neuroscience'),
+('Nutrition'),
+('Obstetrics'),
+('Orthopedics'),
+('Paediatrics'),
+('Pathology'),
+('Pharmacy'),
+('Radiology'),
+('Software Engineering'),
+('Space Engineering'),
+('Virology')
