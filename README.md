@@ -1,2 +1,6 @@
-# student_management_web_api
-Used for storing student details
+# Student Management Web API
+
+Used for storing Student Details in SQL Database
+
+
+Kindly run DBScripts before executing Project
